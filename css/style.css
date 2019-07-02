@@ -3820,3 +3820,11 @@ aside .latest-post li figure {width: 75px;}
 #padding-top-30{
     padding-top: 30px !important;
 }
+#left-flex{
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
+#right{
+    float: right;
+}
